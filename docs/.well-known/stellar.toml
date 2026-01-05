@@ -1,0 +1,23 @@
+VERSION="2.2.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="SeagullCash"
+ORG_DBA="SeagullCash"
+ORG_URL="https://linktr.ee/boredseagullclub"
+ORG_LOGO="https://xpcdn.xpmarket.com/storage/logo/SeagullCash_rNHeGnj4kqGSVyFzDcoyi3gsp1bdPuGeNK.webp"
+ORG_OFFICIAL_EMAIL="boredseagulls@gmail.com"
+ORG_SUPPORT_EMAIL="boredseagulls@gmail.com"
+ORG_TWITTER="bored_club"
+ORG_DESCRIPTION="SeagullCash bridges liquidity on Stellar to liquidity on XRP and facilitates local payment flow."
+
+[[CURRENCIES]]
+code="SeagullCash"
+name="SeagullCash"
+issuer="GBC2VA3YMAIVB3A77VNRPKMQI3RAPDUDDP7JI2PE426MGKDDJFPRVWP7"
+is_asset_anchored=false
+display_decimals=7
+desc="SeagullCash is a liquidity management layer between Stellar and XRP, providing a seamless bridge."
+image="https://d1fdloi71mui9q.cloudfront.net/Z2URVu3eSjyXF3fPVdyq_png_20221121_111630_0000.png"
+conditions="There will only ever be 9,999,999,999,999 SeagullCash tokens in existence."
